@@ -1,0 +1,9 @@
+{
+  "name": "react-empty-child-slot-benchmark",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "esbuild": "0.25.10",
+    "playwright": "1.62.1"
+  }
+}

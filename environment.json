@@ -1,0 +1,58 @@
+{
+  "upstream": "b05c0b75fd9778536152eead30814c9ca90c810a",
+  "candidateCommit": "aa02a74052ce27a3f0fd0a528cbc2428bb55ca7c",
+  "source": "packages/react-reconciler/src/ReactChildFiber.js",
+  "baselineSourceSHA256": "e00b6cc6fdb96ded7e99918857d0832e30969f78cdc456dd88ca59de1d661f02",
+  "candidateSourceSHA256": "624724a4a14915da0c9f66daa14c15f5f27a08f6e0b74125fc02d62e56cd836a",
+  "patchSHA256": "bfc14e4193f1d03f43d492ff3ec21b457ae28b0fc8779eb92d9612a35f1575e5",
+  "sourceYarnLockSHA256": "d5a67e3dcec1a22eae3178fd3160c394416b6f76475f45e11865d7542f97564f",
+  "runnerSHA256": "c7c3e1aa9f0318d4fa065740224bed4521e05782638a20885c2a4eda13834bc5",
+  "fixtureSHA256": "40f4542369b581290e393b7589ea4ce79973809de17e240198f862d3f5e3a44e",
+  "rawJsonSHA256": "2ca9056fbae7aceb46169115e526af9163325ed3c80642b6c7d64db531264407",
+  "startUTC": "2026-11-10T10:01:15.221Z",
+  "finishUTC": "2026-11-10T10:03:28.999Z",
+  "node": "v22.20.0",
+  "v8": "12.4.254.21-node.33",
+  "chromium": "151.0.7922.34",
+  "yarn": "1.22.22",
+  "java": "OpenJDK 17.0.16",
+  "esbuild": "0.25.10",
+  "playwright": "1.62.1",
+  "macOS": "27.0 (26A428)",
+  "cpu": "Apple M3 Max",
+  "arch": "arm64",
+  "variantSHA256": {
+    "baseline": {
+      "domBundle": "ae2e5f2a0538c30d438873c4dff90de386c1e27554ff686ed7160e9a0e0b605e",
+      "domClient": "7f2b9965fb4f92e3680302b6557ec8a1c3909493e77da29c07c75e417cf0ed69",
+      "reconciler": "8cd369c6ebdd406a76101766b4b721588f1f8280704238f9397d24b82416bdc0"
+    },
+    "patched": {
+      "domBundle": "147fe1bb9867b950f798b66244daa0dd1c55e8d26f17b9adb62575f152b7436e",
+      "domClient": "e6cd6fcb94a57c019dfa38591275873cc9bf10a9f76c96ba3ba0826282245def",
+      "reconciler": "f487c3f76d8ff8455408dfd701e26632c3ecf2ec33ca66ed89135b583c6d8a45"
+    }
+  },
+  "startLoadAverage": [
+    78.03,
+    69.9,
+    39.57
+  ],
+  "startPowerSource": "AC",
+  "startThermalStatus": [
+    "Note: No thermal warning level has been recorded",
+    "Note: No performance warning level has been recorded",
+    "Note: No CPU power status has been recorded"
+  ],
+  "endLoadAverage": [
+    73.05,
+    73.74,
+    45.7
+  ],
+  "endPowerSource": "AC",
+  "endThermalStatus": [
+    "Note: No thermal warning level has been recorded",
+    "Note: No performance warning level has been recorded",
+    "Note: No CPU power status has been recorded"
+  ]
+}
